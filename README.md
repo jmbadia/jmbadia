@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on improving annotation between MS2 spectra with diferent acquisition conditions 
+- 🌱 I’m currently learning how to implement AI in my daily code routine
+- 💬 Ask me about R, process MS2 spectra, spectral DB... 
+- 📫 How to reach me: email
+- 😄 Pronouns: He/him/his
 <!--
 **jmbadia/jmbadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
